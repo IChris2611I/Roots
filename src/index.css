@@ -1,0 +1,20 @@
+@tailwind base;
+@layer base {
+  body {
+    @font-face {
+      font-family: Montserrat;
+      src: url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+    }
+    @apply font-montserrat;
+  }
+  input {
+    @apply mt-1 text-black rounded-sm;
+  }
+}
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .form-item {
+    @apply flex flex-col mb-2;
+  }
+}
