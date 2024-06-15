@@ -6,29 +6,29 @@
       "id": 1,
       "title": "Have a deep connection with animals",
       "description": "At our natural retreat, you'll experience the joy of connecting with wildlife in their natural habitat. Guided by knowledgeable instructors, you'll observe and interact with animals respectfully and safely, learning about their behaviors and roles in the ecosystem. This close encounter fosters a deep appreciation for the diverse fauna and the importance of conservation.",
-      "image": "/assets/animals.png"
+      "image": "/assets/image/animals.png"
     },
     {
       "id": 2,
       "title": "Cultivate your own vegetables",
       "description": "At our natural retreat, you'll learn the sustainable and rewarding practice of foraging for wild foods. Under the guidance of experienced instructors, you'll explore the surrounding wilderness to identify and harvest edible plants, mushrooms, and berries. This hands-on experience not only provides practical knowledge about sourcing food from nature but also deepens your connection to the environment and its seasonal offerings.",
-      "image": "/assets/farm.png"
+      "image": "/assets/image/farm.png"
     },
     {
       "id": 3,
       "title": "Learn how to make your own tools",
       "description": "At our natural retreat, you'll have the unique opportunity to learn the ancient art of crafting tools. Guided by skilled instructors, you'll use natural materials to create functional and beautiful items, from wooden utensils to woven baskets. This hands-on experience not only teaches practical skills but also fosters a deeper connection to the environment and a sense of accomplishment. As you work with your hands, you'll gain a greater appreciation for traditional craftsmanship and the resourcefulness of our ancestors.",
-      "image": "/assets/tools.png"
+      "image": "/assets/image/tools.png"
     }
   ],
   "rulesTitle": "Rules of the Roots",
   "rulesIcons": [
-    "/src/assets/icons/dogPaw.png",
-    "/src/assets/icons/group.png",
-    "/src/assets/icons/trust.png",
-    "/src/assets/icons/noMobile.png",
-    "/src/assets/icons/noAlcohol.png",
-    "/src/assets/icons/noSmoking.png"
+    "/assets/icons/dogPaw.png",
+    "/assets/icons/group.png",
+    "/assets/icons/trust.png",
+    "/assets/icons/noMobile.png",
+    "/assets/icons/noAlcohol.png",
+    "/assets/icons/noSmoking.png"
   ],
   "signInTitle": "Join us in order to live a great experience far from the civilization and the stress of everyday life",
   "signInBtn": "Sign me in!"
