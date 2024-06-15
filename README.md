@@ -14,8 +14,8 @@ Le thème du hackathon était **la nature et la déconnexion de la technologie**
 ## 👥 Équipe
 
 - **Chris** - [GitHub](https://github.com/IChris2611I)
-- **Irem ** - [GitHub](https://github.com/iremchabanne)
-- **Naim ** - [GitHub](https://github.com/Naimoudine)
+- **Irem** - [GitHub](https://github.com/iremchabanne)
+- **Naim** - [GitHub](https://github.com/Naimoudine)
 
 Ce projet a été une formidable opportunité d'apprentissage et de collaboration. Nous avons pu renforcer nos compétences en **React** tout en explorant **Tailwind CSS** pour la première fois.
 
