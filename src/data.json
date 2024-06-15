@@ -6,19 +6,19 @@
       "id": 1,
       "title": "Have a deep connection with animals",
       "description": "At our natural retreat, you'll experience the joy of connecting with wildlife...",
-      "image": "/assets/images/animals.png"
+      "image": "/assets/animals.png"
     },
     {
       "id": 2,
       "title": "Cultivate your own vegetables",
       "description": "At our natural retreat, you'll learn the sustainable and rewarding practice...",
-      "image": "/assets/images/farm.png"
+      "image": "/assets/farm.png"
     },
     {
       "id": 3,
       "title": "Learn how to make your own tools",
       "description": "At our natural retreat, you'll have the unique opportunity to learn...",
-      "image": "/assets/images/tools.png"
+      "image": "/assets/tools.png"
     }
   ],
   "rulesTitle": "Rules of the Roots",
