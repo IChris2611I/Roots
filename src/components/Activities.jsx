@@ -1,6 +1,5 @@
 import data from '../data.json'
-
-export default function Activities() {
+export default function Activities({ data }) {
   return (
     <div className="my-20" id="activities">
       <div className="flex items-center justify-end w-1/2 h-20 py-2 pr-5 mb-8 bg-lime-950 rounded-r-2xl">
@@ -8,7 +7,7 @@ export default function Activities() {
       </div>
       <div>
         <div className="flex flex-col gap-y-10 mx-[10%]">
-          {data.activities.map((activity, id) => (
+          {data.map((activity, id) => (
             <div key={id}>
               <div
                 className={
@@ -20,7 +19,7 @@ export default function Activities() {
                 <img src={activity.image} alt={activity.title} className="" />
                 <div className="flex flex-col justify-center">
                   <h3
-                    className={`text-lime-700 font-bold mb-5 ${activity.id !== 2 ? 'text-right' : 'text-left'}`}
+                    className={` text-lime-700 font-bold mb-5	 ${activity.id !== 2 ? `text-right ` : `text-left`}`}
                   >
                     {activity.title}
                   </h3>
@@ -32,5 +31,5 @@ export default function Activities() {
         </div>
       </div>
     </div>
-  )
+  );
 }
