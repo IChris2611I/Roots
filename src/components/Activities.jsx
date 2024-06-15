@@ -1,3 +1,6 @@
+import data from './data.json';
+
+
 export default function Activities({ data }) {
   return (
     <div className="my-20" id="activities">
